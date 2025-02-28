@@ -8,5 +8,5 @@
  | williamcaleb816@gmail.com
 
 🔗 **Live Animated Bio →** https://keilabe.github.io/
-🚀 **Check out my live animated bio →** [Click here](https://your-username.github.io/github-bio-animation/)
+🚀 **Check out my live animated bio →** [Click here]https://keilabe.github.io/github.io-github-bio-animation/
 
