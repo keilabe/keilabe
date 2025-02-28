@@ -7,6 +7,6 @@
 📫 How to reach me: www.linkedin.com/in/caleb-william-5b8818210
  | williamcaleb816@gmail.com
 
-🔗 **Live Animated Bio →** https://keilabe.github.io/
+🔗 **Live Animated Bio →** [https://keilabe.github.io/](https://keilabe.github.io/github.io-github-bio-animation/)
 🚀 **Check out my live animated bio →** [Click here]https://keilabe.github.io/github.io-github-bio-animation/
 
